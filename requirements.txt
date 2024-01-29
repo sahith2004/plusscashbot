@@ -10,8 +10,5 @@ pyngrok
 flask
 flask_cors
 gunicorn
-pinecone-client
-gradientai
-bs4
-gensim
-
+langchain-community
+langchain-openai
