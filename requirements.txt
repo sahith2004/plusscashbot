@@ -1,0 +1,17 @@
+llama-index
+sentence_transformers
+transformers
+openai
+einops 
+accelerate 
+langchain 
+bitsandbytes
+pyngrok
+flask
+flask_cors
+gunicorn
+pinecone-client
+gradientai
+bs4
+gensim
+
